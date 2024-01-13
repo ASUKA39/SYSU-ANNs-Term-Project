@@ -35,7 +35,7 @@
 
 - 目录结构：数据集、代码和模型权重均位于同一级目录
 
-- 模型权重：
+- 模型权重：https://drive.google.com/file/d/15vULtDKbaVXIKjCdxCHvpEAkT2imyzH0/view?usp=drive_link
 
 - 运行：
 
