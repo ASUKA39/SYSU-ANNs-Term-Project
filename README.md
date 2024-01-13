@@ -1,8 +1,5 @@
 # 人工神经网络 Term Project
 
-- 21312436
-- 梁家禧
-
 ## 猫十二分类
 
 ### https://github.com/ASUKA39/SYSU-ANNs-Term-Project.git
